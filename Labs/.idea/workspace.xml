@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e265de3-8506-4670-82b0-8f23c9262f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab4/src/K_nearest_neightbors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/test/test_KNN_classifieur.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/KNN_Cython/KNN.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/KNN_Cython/KNN.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/KNN_Cython/KNN.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/KNN_Cython/KNN.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/lab4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/lab4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/tests/test_markov.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab5/lab5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/lab5.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labs4-5.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,20 +30,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/BUREAU/CENTRALE/3rd_YEAR/SDI/python_labs/python_sdia_All/Labs/Lab4/test"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/BUREAU/CENTRALE/3rd_YEAR/SDI/python_labs/python_sdia_All/Labs/Lab4/test&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\BUREAU\CENTRALE\3rd_YEAR\SDI\python_labs\python_sdia_All\Labs\Lab4\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for Lab4.test.test_KNN_classifieur.Test_Knn">
+  <component name="RunManager" selected="Python tests.Python tests for Lab5.tests.test_markov.TestMarkov.test_markov_trajectory_size">
     <configuration name="Python tests for Lab4.test.test_KNN_classifieur.Test_Knn" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +86,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Lab4.test.test_KNN_classifieur.Test_Knn.test_result_classifieur" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Lab5.tests.test_markov.TestMarkov.test_markov_trajectory_size" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,16 +96,31 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Lab4.test.test_KNN_classifieur.Test_Knn.test_result_classifieur&quot;" />
+      <option name="_new_target" value="&quot;Lab5.tests.test_markov.TestMarkov.test_markov_trajectory_size&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Lab5.tests.test_markov.TestMarkov.test_markov_trajectory_type" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Lab5.tests.test_markov.TestMarkov.test_markov_trajectory_type&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for Lab5.tests.test_markov.TestMarkov.test_markov_trajectory_size" />
+        <item itemvalue="Python tests.Python tests for Lab5.tests.test_markov.TestMarkov.test_markov_trajectory_type" />
         <item itemvalue="Python tests.Python tests for Lab4.test.test_KNN_classifieur.Test_Knn" />
         <item itemvalue="Python tests.Python tests for Lab4.test.test_KNN_classifieur.Test_Knn.test_error_rate" />
         <item itemvalue="Python tests.Python tests for Lab4.test.test_KNN_classifieur.Test_Knn.test_prediction_classifieur" />
-        <item itemvalue="Python tests.Python tests for Lab4.test.test_KNN_classifieur.Test_Knn.test_result_classifieur" />
       </list>
     </recent_temporary>
   </component>
